@@ -2,7 +2,7 @@ using Microsoft.Win32;
 using System;
 using System.Windows;
 
-namespace TaskbarAlignmentToggle
+namespace Menu_Start_Position_Switch_win11
 {
     public partial class MainWindow : Window
     {

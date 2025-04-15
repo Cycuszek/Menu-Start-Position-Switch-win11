@@ -21,7 +21,7 @@ This is a simple WPF application that allows you to toggle the position of the S
 
 ## Installation
 
-Download the latest release from the [Releases](https://github.com/Cycuszek/Menu-Start-Position-Switch/releases) page and run the executable.
+Download the latest release from the [Releases](https://github.com/Cycuszek/Menu-Start-Position-Switch-win11/releases) page and run the executable.
 
 ## Building from Source
 

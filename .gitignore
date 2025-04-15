@@ -2,6 +2,8 @@
 bin/
 obj/
 publish/
+Menu Start Position Switch (win11).exe
+Menu Start Position Switch (win11).pdb
 
 # Ignore user-specific files
 *.user

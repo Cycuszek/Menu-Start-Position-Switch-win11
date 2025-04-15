@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>Menu_Start_Position_Switch_win11</AssemblyName>
+    <RootNamespace>Menu_Start_Position_Switch_win11</RootNamespace>
+  </PropertyGroup>
+
+</Project>
