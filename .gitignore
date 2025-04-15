@@ -1,0 +1,24 @@
+# Ignore build output directories
+bin/
+obj/
+publish/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+
+# Ignore Visual Studio files
+.vs/
+.idea/
+*.sln.iml
+
+# Ignore NuGet packages
+packages/
+
+# Ignore local development files
+*.swp
+*.swo
+*.log
+*.tmp
+*.cache
