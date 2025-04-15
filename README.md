@@ -5,19 +5,22 @@ This is a simple WPF application that allows you to toggle the position of the S
 ## Features
 
 - Toggle Start menu and taskbar alignment between left and center
+- Automatic code signing on first run
+- Adds certificate to trusted publishers
 - Simple and intuitive interface
 - Lightweight and fast
 
 ## Usage
 
 1. Run the application
-2. Click the toggle button to switch between left and center alignment
-3. The changes take effect immediately
+2. On first run, the application will automatically sign itself and add the certificate to trusted publishers
+3. Click the toggle button to switch between left and center alignment
+4. The changes take effect immediately
 
 ## Requirements
 
 - Windows 11
-- .NET 6.0 Runtime
+- .NET 7.0 Runtime
 
 ## Installation
 
