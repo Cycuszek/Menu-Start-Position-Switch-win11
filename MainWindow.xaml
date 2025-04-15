@@ -2,7 +2,7 @@
         x:ClassModifier="public"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Start Button Position Switcher (win11)" Height="160" Width="320"
+        Title="Menu Start Position Switch (win11)" Height="160" Width="320"
         WindowStartupLocation="CenterScreen"
         ResizeMode="NoResize"
         WindowStyle="SingleBorderWindow">
