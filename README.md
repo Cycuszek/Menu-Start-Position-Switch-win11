@@ -12,9 +12,9 @@ This is a simple WPF application that allows you to toggle the position of the S
 
 1. Run the application
 2. On first run, the application will automatically try sign itself and add the certificate for deffender
-2a. if not, run as any downloaded .exe nowdays
-3. Click the toggle button to switch between left and center alignment
-4. The changes take effect immediately
+3. if not, run as any downloaded .exe nowdays
+4. Click the toggle button to switch between left and center alignment
+5. The changes take effect immediately
 
 ## Requirements
 
