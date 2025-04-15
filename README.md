@@ -1,4 +1,7 @@
 # Menu Start Position Switch (Windows 11)
+![obraz](https://github.com/user-attachments/assets/369c707d-f81a-49b7-b212-dd421bbca95f)
+
+
 
 This is a simple WPF application that allows you to toggle the position of the Start menu and taskbar in Windows 11 between left and center alignment.
 
